@@ -1,0 +1,15 @@
+.menu {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 20px;
+    color: aliceblue;
+}
+
+.menu a:hover {
+    background-color: grey;
+}
